@@ -10,7 +10,7 @@
 {
   "compilerOptions": {
     "target": "ES2024",
-    "module": "ES2022",
+    "module": "CommonJS",
     "outDir": "./dist",
     "rootDir": "./src",
     "strict": true
